@@ -29,7 +29,7 @@ const Header = React.createClass({
 			<header className='header'>
 				<h1 className='brand'>
 					<Link to='/' className='brand-link'>
-						Senator Leaderboard
+						Senator Actions on Social Media
 					</Link>
 				</h1>
 				{utilSpace}
