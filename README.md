@@ -13,7 +13,11 @@ People are shifting away from watching Television in the box and more towards In
 Not very well. The most recent youtube footage from some policitians are so outdated, going back as far as 2011.  Hawaii's own policitians admit things go slow on the islands, but their inaction to addressing public issues onto the latest media trends is a perception that can be easily avoided.
 
 ## Application Result: 
-Create an application according to voter behavior for those moving toward mobile Internet devices. In other words, create an application for someone with a 10 second attention span, who wants the information hand-delivered to them immediately. Hence, the objective will be to: 1) Aggregate the massive amount of data to a simple interface (creating a Google for politician actions). 2) Provide the information in 3 clicks or less. 3) Link media platform Youtube to each politican profile. 4) Allow government organizations to easily update content onto the site.
+Create an application according to voter behavior for those moving toward mobile Internet devices. In other words, create an application for someone with a 10 second attention span, who wants the information hand-delivered to them immediately. Hence, the objective will be to: 
+* 1) Aggregate the massive amount of data to a simple interface (creating a Google for politician actions). 
+* 2) Provide the information in 3 clicks or less. 
+* 3) Link media platform Youtube to each politican profile. 
+* 4) Allow organizations to easily update content onto the site.
 
 
 
